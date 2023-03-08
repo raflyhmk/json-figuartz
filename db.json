@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "id_produk": "9",
+      "id": "9",
       "namaProduk": "86 - Eighty Six - Vladilena Milizé PM Figure",
       "fotoProduk": "figure1.jpg",
       "series": "86 - Eighty Six",
@@ -11,7 +11,7 @@
       "status": "pre order"
     },
     {
-      "id_produk": "10",
+      "id": "10",
       "namaProduk": "GSC NENDOROID 1771 FGO - SABER SENJI MURAMASA",
       "fotoProduk": "figure2.jpg",
       "series": "Fate Grand/Order",
@@ -21,7 +21,7 @@
       "status": "ready stock"
     },
     {
-      "id_produk": "11",
+      "id": "11",
       "namaProduk": "Metal Build Gundam Devise Exia",
       "fotoProduk": "figure3.jpg",
       "series": "Metal Build Gundam",
@@ -31,7 +31,7 @@
       "status": "ready stock"
     },
     {
-      "id_produk": "12",
+      "id": "12",
       "namaProduk": "Gantungan Kunci Meito Shushui Roronoa Zoro",
       "fotoProduk": "figure4.jfif",
       "series": "one piece",
@@ -42,7 +42,7 @@
     },
 
     {
-      "id_produk": "13",
+      "id": "13",
       "namaProduk": "PVC FIGURE BNHA - NEJIRE HADO HERO: SUITS VER",
       "fotoProduk": "nejire.jpg",
       "series": "Boku no Hero Academia",
@@ -52,7 +52,7 @@
       "status": "pre order"
     },
     {
-      "id_produk": "14",
+      "id": "14",
       "namaProduk": "GSC NENDOROID BLUELOCK - ISAGI YOICHI",
       "fotoProduk": "isagi.jpg",
       "series": "Blue Lock",
@@ -63,7 +63,7 @@
     },
 
     {
-      "id_produk": "15",
+      "id": "15",
       "namaProduk": "GSC POP UP PARADE FIGURE TENSURA - RIMURU",
       "fotoProduk": "rimuru.jpg",
       "series": "Tensei shitara Slime Datta Ken",
@@ -73,7 +73,7 @@
       "status": "ready stock"
     },
     {
-      "id_produk": "16",
+      "id": "16",
       "namaProduk": "BANDAI MG 1/100 DESTINY GUNDAM",
       "fotoProduk": "gundam.jfif",
       "series": "Mobile Suit Gundam",
@@ -83,7 +83,7 @@
       "status": "pre order"
     },
     {
-      "id_produk": "17",
+      "id": "17",
       "namaProduk": "FURYU TENITOL FIGURE - ELAINA",
       "fotoProduk": "elaina.jpg",
       "series": "Majo no Tabitabi",
@@ -93,7 +93,7 @@
       "status": "ready stock"
     },
     {
-      "id_produk": "18",
+      "id": "18",
       "namaProduk": "PVC 1/7 FIGURE RE: ZERO - EMILIA: TEA PARTY VER",
       "fotoProduk": "emilia.jpg",
       "series": "Re:Zero",
