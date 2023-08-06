@@ -1,0 +1,140 @@
+{
+  "produk": [
+    {
+      "id": 1,
+      "namaProduk": "Oshi no ko - Kurogawa Akane Dress Cosplay Costume",
+      "kategoriProduk": "Woman Cosplay",
+      "imageProduk": [
+        {
+          "id": 1,
+          "id_produk": 1,
+          "imageUrl": "https://i.pinimg.com/564x/c5/9c/22/c59c221249e8d702538ea969d99d8f5a.jpg"
+        },
+        {
+          "id": 2,
+          "id_produk": 1,
+          "imageUrl": "https://i.pinimg.com/564x/ba/00/14/ba00140a367eb113b048e3aa99ed566c.jpg"
+        },
+        {
+          "id": 3,
+          "id_produk": 1,
+          "imageUrl": "https://i.pinimg.com/564x/8c/44/84/8c4484ea81d80dc06920d5c8fd660737.jpg"
+        },
+        {
+          "id": 4,
+          "id_produk": 1,
+          "imageUrl": "https://i.pinimg.com/564x/b6/a2/0b/b6a20bbfd22b78c0b7f2e3119f008931.jpg"
+        },
+        {
+          "id": 5,
+          "id_produk": 1,
+          "imageUrl": "https://i.pinimg.com/564x/de/05/34/de0534dc3a1e174113b8787f3bcd4047.jpg"
+        }
+      ],
+      "deskripsiProduk": "<p>Kurokawa Akane, adalah karakter utama wanita dari anime \"Oshi no Ko.\" Seorang idol populer yang memiliki karisma yang tak terbantahkan di industri hiburan, Kurokawa Akane adalah tokoh yang mencuri perhatian dengan kecantikan dan kepribadian yang menawan. Dalam kostum cosplay ini, Anda dapat merasakan pengalaman menjadi idola top seperti dirinya.</p>\r\n<p>Paket dalam kostum diantara nya :</p>\r\n<ol>\r\n<li>Dress Akane: Kostum ini mencakup dress berbahan berkualitas tinggi yang menyerupai busana ikonik yang dikenakan oleh Kurokawa Akane di anime. Dengan rincian yang sempurna seperti pita, rumbai, dan aksesoris lainnya.</li>\r\n<li>Wig (rambut palsu): Rambut pendek sampai sebahu orang dewasa dengan warna keunguan dengan kesan berwarna biru menjadi yang ciri khas Kurokawa Akane, dan wig berkualitas tinggi ini akan memberikan gaya rambut yang sempurna dan realistis.</li>\r\n</ol>",
+      "harga": 520000
+    },
+    {
+      "id": 2,
+      "namaProduk": "Genshin Impact - Wanderer Cosplay Costume",
+      "kategoriProduk": "Man Cosplay",
+      "imageProduk": [
+        {
+          "id": 6,
+          "id_produk": 2,
+          "imageUrl": "https://i.pinimg.com/564x/d5/95/a1/d595a1423b6f12ec412fa113dca0e7c2.jpg"
+        },
+        {
+          "id": 7,
+          "id_produk": 2,
+          "imageUrl": "https://i.pinimg.com/564x/ba/00/14/ba00140a367eb113b048e3aa99ed566c.jpg"
+        },
+        {
+          "id": 8,
+          "id_produk": 2,
+          "imageUrl": "https://i.pinimg.com/564x/8c/44/84/8c4484ea81d80dc06920d5c8fd660737.jpg"
+        },
+        {
+          "id": 9,
+          "id_produk": 2,
+          "imageUrl": "https://i.pinimg.com/564x/b6/a2/0b/b6a20bbfd22b78c0b7f2e3119f008931.jpg"
+        },
+        {
+          "id": 10,
+          "id_produk": 2,
+          "imageUrl": "https://i.pinimg.com/564x/de/05/34/de0534dc3a1e174113b8787f3bcd4047.jpg"
+        }
+      ],
+      "deskripsiProduk": "<p>Kurokawa Akane, adalah karakter utama wanita dari anime \"Oshi no Ko.\" Seorang idol populer yang memiliki karisma yang tak terbantahkan di industri hiburan, Kurokawa Akane adalah tokoh yang mencuri perhatian dengan kecantikan dan kepribadian yang menawan. Dalam kostum cosplay ini, Anda dapat merasakan pengalaman menjadi idola top seperti dirinya.</p>\r\n<p>Paket dalam kostum diantara nya :</p>\r\n<ol>\r\n<li>Dress Akane: Kostum ini mencakup dress berbahan berkualitas tinggi yang menyerupai busana ikonik yang dikenakan oleh Kurokawa Akane di anime. Dengan rincian yang sempurna seperti pita, rumbai, dan aksesoris lainnya.</li>\r\n<li>Wig (rambut palsu): Rambut pendek sampai sebahu orang dewasa dengan warna keunguan dengan kesan berwarna biru menjadi yang ciri khas Kurokawa Akane, dan wig berkualitas tinggi ini akan memberikan gaya rambut yang sempurna dan realistis.</li>\r\n</ol>",
+      "harga": "520000"
+    },
+    {
+      "id": 3,
+      "namaProduk": "Kimetsu no Yaiba - Shinobu Kocho Haori Uniform Cosplay Costume",
+      "kategoriProduk": "Woman Cosplay",
+      "imageProduk": [
+        {
+          "id": 11,
+          "id_produk": 3,
+          "imageUrl": "https://i.pinimg.com/564x/40/e9/02/40e90235f86f4d73526ad6315f28175a.jpg"
+        },
+        {
+          "id": 12,
+          "id_produk": 3,
+          "imageUrl": "https://i.pinimg.com/564x/ba/00/14/ba00140a367eb113b048e3aa99ed566c.jpg"
+        },
+        {
+          "id": 13,
+          "id_produk": 3,
+          "imageUrl": "https://i.pinimg.com/564x/8c/44/84/8c4484ea81d80dc06920d5c8fd660737.jpg"
+        },
+        {
+          "id": 14,
+          "id_produk": 3,
+          "imageUrl": "https://i.pinimg.com/564x/b6/a2/0b/b6a20bbfd22b78c0b7f2e3119f008931.jpg"
+        },
+        {
+          "id": 15,
+          "id_produk": 3,
+          "imageUrl": "https://i.pinimg.com/564x/de/05/34/de0534dc3a1e174113b8787f3bcd4047.jpg"
+        }
+      ],
+      "deskripsiProduk": "<p>Kurokawa Akane, adalah karakter utama wanita dari anime \"Oshi no Ko.\" Seorang idol populer yang memiliki karisma yang tak terbantahkan di industri hiburan, Kurokawa Akane adalah tokoh yang mencuri perhatian dengan kecantikan dan kepribadian yang menawan. Dalam kostum cosplay ini, Anda dapat merasakan pengalaman menjadi idola top seperti dirinya.</p>\r\n<p>Paket dalam kostum diantara nya :</p>\r\n<ol>\r\n<li>Dress Akane: Kostum ini mencakup dress berbahan berkualitas tinggi yang menyerupai busana ikonik yang dikenakan oleh Kurokawa Akane di anime. Dengan rincian yang sempurna seperti pita, rumbai, dan aksesoris lainnya.</li>\r\n<li>Wig (rambut palsu): Rambut pendek sampai sebahu orang dewasa dengan warna keunguan dengan kesan berwarna biru menjadi yang ciri khas Kurokawa Akane, dan wig berkualitas tinggi ini akan memberikan gaya rambut yang sempurna dan realistis.</li>\r\n</ol>",
+      "harga": 550000
+    },
+    {
+      "id": 4,
+      "namaProduk": "Jujutsu kaisen - Ryomen Sukuna yukata kimono cosplay costume",
+      "kategoriProduk": "Man Cosplay",
+      "imageProduk": [
+        {
+          "id": 16,
+          "id_produk": 4,
+          "imageUrl": "https://i.pinimg.com/564x/3f/d9/28/3fd92891d455ceefc1400a41a6ae56d2.jpg"
+        },
+        {
+          "id": 17,
+          "id_produk": 4,
+          "imageUrl": "https://i.pinimg.com/564x/ba/00/14/ba00140a367eb113b048e3aa99ed566c.jpg"
+        },
+        {
+          "id": 18,
+          "id_produk": 4,
+          "imageUrl": "https://i.pinimg.com/564x/8c/44/84/8c4484ea81d80dc06920d5c8fd660737.jpg"
+        },
+        {
+          "id": 19,
+          "id_produk": 4,
+          "imageUrl": "https://i.pinimg.com/564x/b6/a2/0b/b6a20bbfd22b78c0b7f2e3119f008931.jpg"
+        },
+        {
+          "id": 20,
+          "id_produk": 4,
+          "imageUrl": "https://i.pinimg.com/564x/de/05/34/de0534dc3a1e174113b8787f3bcd4047.jpg"
+        }
+      ],
+      "deskripsiProduk": "<p>Kurokawa Akane, adalah karakter utama wanita dari anime \"Oshi no Ko.\" Seorang idol populer yang memiliki karisma yang tak terbantahkan di industri hiburan, Kurokawa Akane adalah tokoh yang mencuri perhatian dengan kecantikan dan kepribadian yang menawan. Dalam kostum cosplay ini, Anda dapat merasakan pengalaman menjadi idola top seperti dirinya.</p>\r\n<p>Paket dalam kostum diantara nya :</p>\r\n<ol>\r\n<li>Dress Akane: Kostum ini mencakup dress berbahan berkualitas tinggi yang menyerupai busana ikonik yang dikenakan oleh Kurokawa Akane di anime. Dengan rincian yang sempurna seperti pita, rumbai, dan aksesoris lainnya.</li>\r\n<li>Wig (rambut palsu): Rambut pendek sampai sebahu orang dewasa dengan warna keunguan dengan kesan berwarna biru menjadi yang ciri khas Kurokawa Akane, dan wig berkualitas tinggi ini akan memberikan gaya rambut yang sempurna dan realistis.</li>\r\n</ol>",
+      "harga": 320000
+    }
+  ]
+}
